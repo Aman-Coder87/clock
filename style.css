@@ -37,7 +37,7 @@ body{
 .clock:after{
   position: absolute;
   content: '';
-  height: 120px;
+  height: 120px; 
   width: 120px;
   background: #dde1e7;
   border-radius: 50%;
